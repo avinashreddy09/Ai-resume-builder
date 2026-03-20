@@ -142,7 +142,7 @@ Each project can include:
 Links automatically:
 
 * Open in new tab
-* Handle URLs with or without `https://`
+* https://jioresume.com/
 
 ---
 
