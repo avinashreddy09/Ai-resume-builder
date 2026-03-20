@@ -156,31 +156,7 @@ Both frontend and backend include:
 
 Use them as reference — **do not commit `.env` files**.
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Please read:
-
-* [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-See [`LICENSE.md`](./LICENSE.md) for details.
-
----
-
-## 👨‍💻 Author
-
-**Laxman Goud**
-GitHub: [@laxman-goud](https://github.com/laxman-goud)
-
----
 
 ## ⭐ If you like this project
 
