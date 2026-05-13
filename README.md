@@ -74,7 +74,6 @@ AI-Resume-Builder-App/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/laxman-goud/AI-Resume-Builder-App.git
 cd AI-Resume-Builder-App
 ```
 
