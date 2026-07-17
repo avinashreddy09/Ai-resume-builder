@@ -141,7 +141,8 @@ Each project can include:
 Links automatically:
 
 * Open in new tab
-* https://jioresume.com/
+* https://resumedoneai.vercel.app/
+* 
 
 ---
 
